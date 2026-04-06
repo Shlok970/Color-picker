@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    gap: 90px;
+}
+
+.x{
+    border: 3px solid black;
+    border-radius: 5px;
+    flex-basis: 150px;
+    text-align: center;
+    margin: 150px 0px 0px 50px;
+}
+
+.title{
+    margin-left: 150px;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
